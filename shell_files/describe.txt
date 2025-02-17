@@ -1,0 +1,6 @@
+lora finetuning
+full finetuning
+merge lora adapters to base llm model
+evaluate 
+predict
+
